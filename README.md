@@ -16,7 +16,7 @@ Before starting, ensure you have the following installed:
 - Python 3.7+
 - Node.js (for frontend)
 - PostgreSQL (for database)
-- OpenAI API Key (if using OpenAI features)
+- OpenAI API Key 
 
 ## Setup Instructions
 
@@ -41,7 +41,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate
 ### 3. Install backend dependencies
 
 ```bash
-pip install -r backend/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 4. Setup PostgreSQL Database
